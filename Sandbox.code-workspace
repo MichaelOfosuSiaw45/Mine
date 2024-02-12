@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../PHYTHON"
+		},
+		{
+			"name": "Mine",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Mine"
+	}
+}
