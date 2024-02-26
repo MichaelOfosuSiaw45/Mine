@@ -14,6 +14,7 @@ int main() {
     // Task: calculate the amount left over on your account after the purchase and output it on a new line.
     // Hint: calculate the total price of the purchase, then substract it from the balance.
     cout << balance - (price*books);
+    return 0;
 
 }
 
